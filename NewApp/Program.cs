@@ -8,5 +8,6 @@ class Program
         int b = 10;
 
         Console.WriteLine(a + b);
+        Console.WriteLine("test in ra man hinh ngay 6/1");
     }
 }
